@@ -13,8 +13,6 @@ pipeline {
 				{
 					steps{
 						echo "Deploy the Project........."
-
-							mvn clean
 						
 					          }
 				}
